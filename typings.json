@@ -1,0 +1,9 @@
+{
+  "name": "winjs-definition-shims",
+  "main": "winjs-definition-shims.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for WinJS definitions that aren't included in the default WinJS.d.ts definitions.",
+  "ambientDependencies": {
+    "winjs": "registry:dt/winjs#2.1.0+20160127104548"
+  }
+}
